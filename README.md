@@ -1,3 +1,5 @@
+> ⚠️ **本仓库已废弃**：内容已并入 [agent-deploy](https://github.com/hpsks416/agent-deploy) 的 skills/open-source-scout/ 子目录，请以 agent-deploy 为准。本仓库保留仅供历史归档。
+
 # open-source-scout
 
 检索 GitHub 等开源平台，找到匹配需求的现成项目，并提炼成含许可、维护度、适配度的对比清单。
@@ -28,3 +30,4 @@
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
